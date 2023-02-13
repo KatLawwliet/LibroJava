@@ -9,7 +9,7 @@ public class Cuenta
         //Metodo para establecer el nombre en el objeto
         public void establecerNombre(String nombre)
         {
-            this.nombre = nombre; //Almacenar variable
+            this.nombre = nombre; //Almacenar variables
         }
 
         //Metodo para obtener el nombre del objeto
